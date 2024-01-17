@@ -1,4 +1,4 @@
-# Phone-pe-clone
+# Phone-pe Front end website
 A GitHub repository hosting the frontend  code for a website inspired by PhonePe
 # PhonePe Inspired Website
 
